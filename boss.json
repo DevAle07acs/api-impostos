@@ -1,0 +1,9 @@
+{
+	"name": "api-impostos",
+	"description": "api para consulta de cfop, ncm, cest",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./",
+	"projects": [],
+	"dependencies": {}
+}
